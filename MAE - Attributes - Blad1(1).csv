@@ -1,0 +1,191 @@
+,MAE,Correct Answer,"point system: 1+ if correct ‘None’ or correct answer, +0.5 if not correct answer but is almost correct",,,,,,,,,,,,,,,
+Class,Attributes,,Points(fill all correct + 1),Flan,Points,NormL Points,BIG ,Points,NormL Points,Alpaca,Points,NormL Points,Cohere,Points,NormL Points,GPT,Points,NormL Points
+Shorts,Consumer Lifestage',None,5,Lifestage,0,0,Linen and cotton shorts with multi pockets and drawstrings.,0,"0,2",The consumers' lifestage for this product is Adults.,0,"0,8",None,1,"1,5",None,0,"0,8"
+,Gender',None,,The product is for women,0,,Men's shorts,0,,None,1,,male,0,,None,1,
+,If Maternity',None,,None,0,,"If it is maternity, the shorts will be in extra large size.","0,5",,None,1,,Maternity,0,,None,1,
+,Length of Leg of Garment',None,,Length of Leg of Garment is 11.7 inches,0,,Shorts with no appliqués and drawstring closure.,0,,None,1,,The length of the leg of the shorts is,"0,5",,None,1,
+,Type of Trousers/Shorts',Shorts,,Product_Code,0,,Striped shorts,"0,5",,Shorts,1,,None,0,,Shorts,1,
+Acer Predator 15 G9-593-73FK Signature Edition Gaming Laptop,If Wireless',Wireless/None,3,None,1,1,None,1,"0,3333333333",None,1,"0,8333333333",None,1,1,None,1,"0,6666666667"
+,Screen Size (Inches)',15,,15,1,,None,0,,154 inches,"0,5",,15,1,,None,0,
+,Type of Personal Computer Portable',laptop/portable,,Laptop,1,,None,0,,Portable,1,,Portable,1,,Portable,1,
+Girls Rainbow Aviator Sunglasses,Consumer Lifestage',Girl/Young,4,Lifestage,0,"0,5",None,0,"0,75",Teen/Youth,1,"0,75",Girl,1,"0,5",Girls,1,1
+,If For Sport',None,,None,1,,None,1,,For Sport,0,,Frame made of 100% metal Lenses,0,,None,1,
+,Target Gender',Girls,,None,0,,Girl,1,,Girl,1,,Girl,1,,Girls,1,
+,Type of UV Protection',100.00%,,100%,1,,100%,1,,100%,1,,None,0,,100% protection against harmful UV rays,1,
+"Chartpak Pickett Graphic Tape, 1/4' x 324', Matte, Black Item # 458375",If Double-Sided',None,3,None,1,1,"If double-sided, this product is for you.",0,"0,3333333333",None,1,"0,6666666667",Double-Sided,0,"0,3333333333",None,1,"0,6666666667"
+,If Water Resistant',None,,None,1,,No,0,,Yes,0,,Water Resistant,0,,None,1,
+,Type of Tape (DIY)',Graphic Tape,,The item was a DIY Tape,1,,Tape,1,,Chartpak Pickett Graphic Tape,1,,DIY,1,,None,0,
+Ultimate Premium Quality 90 GPD pH+ Alkaline Mineral Under-Sink Reverse Osmosis Drinking Water Filter System,Type of Household Water Filter/Water Filter Cartridge',Under-Sink Reverse Osmosis Drinking Water Filter System,1,Reverse Osmosis,1,1,APEC Top Tier RO-PH90,0,0,None,1,1,Water Filter Cartridge,1,1,None,1,1
+Casio Women's LTPV002G-7B Gold Stainless-Steel Quartz Watch,Base Material',Stainless-Steel,8,Stainless steel,1,"0,6875",None,0,"0,75",Stainless Steel,1,"0,75",casio-womnen-s-,0,"0,4375",Gold Stainless-Steel,1,"0,8125"
+,Consumer Lifestage',None,,Lifestage,0,,None,1,,Young Adult,0,,None,1,,None,1,
+,If Incorporated Broadcast Software',None,,None,1,,None,1,,None,1,,"The attribute is ""Incorporated Broadcast",0,,None,1,
+,If With Alarm',None,,None,1,,None,1,,Yes,0,,With Alarm,0,,None,1,
+,If With Interchangeable Face',None,,None,1,,None,1,,None,1,,None,1,,None,1,
+,Target Gender',Woman/Adult/Grown/None,,None,"0,5",,Casio LTPV002G-7B Gold Stainless-Steel Quartz Watch,"0,5",,Women,1,,None,"0,5",,None,"0,5",
+,Type of Watch Mechanism',Quartz,,Quartz,1,,Watch mechanism is quartz,1,,Quartz,1,,None,0,,Quartz,1,
+,Wrist/Pocket Watch',Wrist Watch,,None,0,,Casio Women's LTPV002G-7B Gold Stainless Steel Quartz Watch,"0,5",,Wrist/Pocket Watch.,1,,Wrist/Pocket Watch,1,,Wrist/Pocket Watch: None,0,
+Java Modeling In Color With UML: Enterprise Components and Process,Consumer Lifestage',None,3,Java Modeling In Color With UML: Enterprise Components and Process,1,"0,6666666667",None,1,"0,6666666667",None,1,"0,6666666667",None,1,"0,6666666667",None,1,1
+,Content/Subject',Software Design/Java Modeling/programming,,Java,1,,None,0,,None,0,,None,0,,Java Modeling in Color with UML: Enterprise Components and Process,1,
+,Property Format',None’ / HardCopy/Digital/www.togetherj.com,,Format,0,,None,1,,None,1,,None,1,,None,1,
+HP LaserJet Pro MFP M426fdw Black and White Laser Printer,If Photo Printer',Yes/Photoprinter,3,"If ('All in one printer does all your printing, copying, scanning and faxing, saving time and money')","0,5","0,1666666667",None,0,"0,3333333333",None,0,"0,5",All in one printer does all your printing,1,"0,5",None,0,"0,3333333333"
+,Print Colour',Yes/Prints Colour,,None,0,,None,0,,Black and White,"0,5",,Black and white,"0,5",,None,0,
+,Type of Printer',Laser Printer/LaserJet,,None,0,,All in one printer,1,,Laser Printer,1,,None,0,,Laser,1,
+Culebra Dining Armchair,If on Castors',None,6,None,1,1,None,1,"0,75",None,1,"0,3333333333",Contemporary,0,"0,3333333333",None,1,"0,8333333333"
+,If Rocking',None,,None,1,,None,1,,None,1,,None,1,,None,1,
+,If Supplied as a Flatpack (to be assembled)',None,,None,1,,None,1,,1. Is the item supplied as a Flatpack (to be assembled)?,0,,Contemporary,0,,None,1,
+,If Swivel',None,,None,1,,"If Swivel is true, this chair swivels.",0,,Yes,0,,Contemporary,0,,None,1,
+,Target Use/Application',Armchair/Dining Armchair,,Armchair,1,,The Culebra Dining Armchair by Ashley at AHFA in the area.,"0,5",,None,0,,Culebra Dining Armchair,1,,None,0,
+,Type of Household/Office Chair/Stool',Dining Armchair/Dining Chair/ Armchair,,Armchair,1,,The Culebra Dining Armchair by Ashley at AHFA in the area.,1,,None,0,,None,0,,Armchair,1,
+Robot Coupe J100 Ultra Juicer with Continuous Pulp Ejection - 120 V,If With Bowl',Disk Basket/None,2,None,1,1,None,1,"0,5",None,1,1,None,1,1,None,1,"0,5"
+,Type of Juicers/Citrus Press',Automatic/Robot,,Juicers/Citrus Press,1,,None,0,,Juicer,1,,juicers,1,,None,0,
+Offset Slugging Wrench 12 Point 36MM,Type of Wrench/Spanner',Offset Slugging Wrench,1,Wrenches,1,1,None,0,0,Offset Slugging Wrench 12 Point 36MM,1,1,None,0,0,None,0,0
+Milliken Pastiche Kashmiran Marquette Ebony Area Rug,Formation',Area Rug/Sizes,4,Country of Manufacture,0,"0,625",None,0,"0,75",None,0,"0,5",None,0,"0,25",Nylon,0,"0,5"
+,Indoor/Outdoor Use',None,,None,1,,None,1,,None,1,,None,1,,Indoor/Outdoor Use: None,1,
+,Target Use/Application',Rug,,Target Use/Application is area rug,1,,Area rug,1,,None,0,,None,0,,Material: Synthetic,0,
+,Type of Material',100pct Nylon fibers,,Synthetic,"0,5",,100% nylon fibers.,1,,The type of material mentioned in the text is 'Nylon fibers'.,1,,None,0,,Nylon.,1,
+Intel Core i5-4300U 2.9GHz 4GB,Type of Computer Processor',Intel Core i5-4300U 2.9GHz 4GB,1,None,0,0,Used,0,0,None,0,0,None,0,0,Intel Core i5-4300U,1,1
+GXW Wireless 12 MP Scouting Camera,If Multi-screen',None,5,None,1,"0,8",Stealth Cam,0,"0,4",Yes.,0,"0,8",The answer is Yes,0,"0,4",None,1,"0,6"
+,If Weatherproof',None,,None,1,,None,1,,None,1,,Weatherproof,0,,Weatherproof,0,
+,If With Night Vision',None,,None,1,,None,1,,None,1,,None,1,,Night Vision: None,1,
+,Indoor/Outdoor Use',Outdoor,,None,0,,None,0,,Indoor/Outdoor Use,1,,None,0,,None,0,
+,With/Without Video Recorder',With/With video recorder,,With,1,,None,0,,1. With Video Recorder.,1,,With,1,,With Video Recorder,1,
+"Dell Latitude E6540 Core i5-4310 2.7GHz 16GB 256GB SSD DVD HD8790M n BT 9C 15.6"" FHD W7P64",If Wireless',Wireless,3,None,0,"0,6666666667",None,0,,"Sure, which attributes are you looking for from the given text?",0,,"The answer is Gigabit Ethernet, IEEE 802",1,,IEEE 802.11n,1,
+,Screen Size (Inches)',15.6 inch,,15.6 in,1,,None,0,,156 inches,1,,156in,1,,15.6in,1,
+,Type of Personal Computer Portable',Dell/ Dell latitude,,Personal Computer,1,,None,0,,The type of personal computer is portable.,1,,Attribute Type of Personal Computer Portable,1,,Portable,1,
+Electro-Voice RE90H Cardioid Pattern Hanging Microphone,Corded/Cordless',Corded,3,Corded,1,"0,6666666667",Corded,1,"0,8333333333",Corded,1,"0,6666666667",Cabled,1,"0,3333333333",Corded,1,"0,6666666667"
+,Type of Microphone',Hanging,,Microphone,"0,5",,Hanging installation microphone.,1,,The type of microphone is condenser microphone.,"0,5",,None,0,,Cardioid Pattern,"0,5",
+,Type of Microphone Attachment',Shielded low-noise cable,,Condenser,"0,5",,Plug type,"0,5",,Cardioid Pattern Hanging Microphone,"0,5",,None,0,,Hanging,"0,5",
+Laser Cut Leather Skirt,Consumer Lifestage',None,5,Lifestage,0,"0,6",Lifestage,0,"0,3",Adult,0,"0,5",None,1,"0,8",None.,1,"0,8"
+,Gender',None,,HIS/HER,1,,Female,"0,5",,Female,"0,5",,His/her,1,,None,1,
+,If Maternity',None,,None,1,,None,1,,"If Maternity, the name of the item is ""Laser Cut Leather Skirt"".",0,,None,1,,None,1,
+,Length of Skirt',None,,None,1,,54.5 in,0,,None,1,,None,1,,None,1,
+,Type of Material',Leather,,None,0,,FERRAGAMO.COM,0,,Leather,1,,Laser Cut Leather Skirt,0,,None,0,
+Americans: Season 1 [Blu-ray] [2013] [US Import],If Dolby Digital Decoder',None,5,None,1,1,None,1,"0,8","The attribute extracted from the text is ""Region A encoding.""",0,"0,8",Dolby Digital Decoder,0,"0,4",None,1,1
+,If MP3 Playback Capability',None,,None,1,,None,1,,None,1,,MP3,0,,None,1,
+,If With Remote Control',None,,None,1,,None,1,,None,1,,None,1,,None,1,
+,Player/Recorder',Blue-ray,,None,1,,None,1,,Blu-ray,1,,None,1,,Region specific or multi-region Blu-ray player,1,
+,Reading/Recording Format',Blue-ray,,Blu-ray,1,,Add a review for Americans: Season 1 [Blu-ray],0,,Blu-ray,1,,None,0,,Blu-ray,1,
+Khushali Presents Embroidered Cotton Unstitched Dress Material_yellow - (code -mdkz21007),Consumer Lifestage',Adult/Grown/Woman/None,7,Not Applicable,"0,5","0,3571428571",None,1,"0,2857142857",None,1,"0,7142857143",Yellow,0,"0,1428571429",None,1,"0,8571428571"
+,Gender',None/Woman,,None,1,,Khushali Fashion,0,,None,1,,Yellow,0,,None,1,
+,If Maternity',None,,if ('Maternity'),0,,Khushali Fashion,0,,- If Maternity,0,,Yes,0,,None,1,
+,Length of Skirt',2.20m / 2.10m,,None,0,,None,0,,The length of the skirt is 2.20 m.,1,,The length of the skirt is 220,1,,2.10 m,1,
+,Length of Sleeve of Garment',None,,None,1,,None,1,,220 m,0,,210,0,,None,1,
+,Type of Dress',Unstiched Dress/ Dress,,None,0,,None,0,,Embroidered Cotton Unstitched Dress,1,,None,0,,None,0,
+,Type of Material',Cotton,,None,0,,None,0,,Cotton,1,,None,0,,Cotton,1,
+Crane EE-8619 humidifier,Consumer Lifestage',None,1,Consumer Reports,0,0,None,1,1,None,1,1,None,1,1,None,1,1
+Griffin TurnFolio Carrying Case (Folio) for iPad Air - Nickel Item # 376825,Type of Audio Visual Bag/Case/Wallet',Carrying Case (Folio) for Ipad Air/Protective Fram,2,Bag/Case/Wallet,1,1,Apple iPad Air - Case,1,,None,0,,Audio Visual Bag/Case/Wallet,1,,Bag/Case/Wallet,1,
+,Type of Material',Nickel,,Nickel,1,,folio,0,,Nickel,1,,Nickel,1,,Folio,0,
+American Heritage Billiards Designer Vintage Oak Bar Stool with Black Leatherette Cushion,If on Castors',None,6,None,1,"0,6666666667",Yes,0,"0,6666666667",None,1,"0,6666666667",If on Castors,0,0,None,1,"0,8333333333"
+,If Rocking',None,,None,1,,None,1,,None,1,,American,0,,None,1,
+,If Supplied as a Flatpack (to be assembled)',None,,None,1,,None,1,,- If Supplied as a Flatpack (to be assembled),0,,Supplied as a Flatpack (to be,0,,None,1,
+,If Swivel',None,,Swivel,0,,Yes,0,,None,1,,American Heritage,0,,None,1,
+,Target Use/Application',Bar Stool,,None,0,,Bar Stool,1,,Bar (Billiards),0,,None,0,,None,0,
+,Type of Household/Office Chair/Stool',Bar Stool/Household Stool/Stool,,Chair/Stool,1,,Bar stool,1,,Chair/Stool,1,,None,0,,Stool,1,
+Samsung HT-H7750 W7.1Ch Blu-ray Home Entertainment System,If Dolby Digital Decoder',Yes/ Dolby Digital,5,None,0,"0,4",None,0,"0,6",None,0,"0,8",The attribute is Dolby Digital Decoder,1,"0,6",Yes,1,"0,6"
+,If MP3 Playback Capability',Yes/Playback Capability,,None,0,,Yes,1,,Yes,1,,None,0,,Yes,1,
+,If With Remote Control',None,,None,1,,None,1,,None,1,,None,1,,Yes,0,
+,Player/Recorder',Player,,None,0,,No,0,,Yes,1,,None,0,,None,0,
+,Reading/Recording Format',None,,AVCHD,1,,Yes,1,,AVCHD,1,,None,1,,3D Blu-ray,1,
+Trans Globe Lighting New Century Eight-Light Black Chandelier,Function',Lighting,4,Trans Globe Lighting New Century Eight-Light Black Chandelier,"0,5","0,375",None,0,"0,5",Chandelier,1,"0,75",Trans Globe Lighting,1,"0,5",None,0,"0,25"
+,Installation Type',None/Chandelier,,None,1,,None,1,,Chandelier,1,,Trans Globe,0,,None,1,
+,Target Use/Application',Chandelier/Lighting,,None,0,,Trans Globe Lighting,1,,None,0,,Chandelier,1,,None,0,
+,Type of Lighting Fitting',Hanging/Chandelier,,Trans Globe Lighting New Century Eight-Light Black Chandelier is a type of lighting fitting.,0,,None,0,,Chandelier,1,,None,0,,None,0,
+WOMEN Cotton Stretch Jogger Pants,Consumer Lifestage',Woman/Adult/Grown/None,6,None,1,"0,6666666667",Women's joggers,0,"0,3333333333",Women,1,"0,6666666667",Casual,1,"0,5",None,1,"0,5833333333"
+,Gender',Female/Woman,,WOMEN,1,,Women's joggers in classic black.,"0,5",,Women,1,,Women,1,,None,0,
+,If Maternity',None,,It's impossible to say,"0,5",,None,1,,None,1,,Maternity,0,,None,1,
+,If Thermal',None,,None,1,,"If Thermal is true, the fabric is woven with a thermal finish.","0,5",,Yes,0,,None,1,,None,1,
+,Type of Material',"Cotton Strech/ 97% Cotton, 3% Spandex",,Joggers,0,,joggers,0,,"97% Cotton, 3% Spandex",1,,None,0,,Cotton,"0,5",
+,Type of Pants/Briefs/Undershorts',Jogger Pants/Joggers,,Pants,"0,5",,aktualitet,0,,Type of Pants,0,,None,0,,None,0,
+Vida It (Black) Bluetooth Headset For Lg - S310 - P520 - Axis - Cosmos Touch Vn270 Cell Phone - Noise Cancellation - Connect 2 Phones - Volume Control,Corded/Cordless',Cordless,3,None,"0,5","0,5",None,"0,5","0,5",Cordless.,"0,5","0,1666666667",It is Corded,"0,5","0,8333333333",Corded/Cordless: None,"0,5","0,6666666667"
+,Signal Connection',Bluetooth,,None,0,,None,0,,None,0,,Signals can be sent through Bluetooth version 3,1,,Bluetooth V3.0 +EDR Class 2,1,
+,Type of Audio Headset',Bluetooth headset/Noise Cancellation,,Audio Headset,1,,None,0,,None,0,,Audio Headset,1,,Bluetooth V3.0,"0,5",
+"Duracell Coppertop Batteries, Alkaline, AAA, 16 batteries",Battery Constituent',Akaline/AAA,4,Alkaline,1,"0,625",Alkaline,1,"0,5",Alkaline,1,"0,75",Alkaline,1,"0,75",None,0,"0,375"
+,Rechargeable/Non-rechargeable',None,,Non-rechargeable,0,,Rechargeable,0,,Non-rechargeable,0,,None,1,,Rechargeable/Non-rechargeable: None,"0,5",
+,Target Use/Application',Batteries/Battery/,,Target Use/Application is consumer,"0,5",,Keep batteries away from children,0,,Batteries,1,,None,0,,Keep batteries away from children.,0,
+,Type of Battery',AAA Battery/AAA/Alkaline,,Alkaline,1,,Alkaline,1,,"Alkaline, AAA",1,,Alkaline,1,,Alkaline,1,
+"33"" Hammered Copper Kitchen Apron Single Basin Sink with Scroll",Type of Material',Copper/Hammered Copper,1,Copper,1,1,Copper,1,1,Copper,1,1,Copper,1,1,Copper,1,1
+Replacement for FUJITSU Laptop Battery (10.8 V 48 Wh Metallic Grey 4400 mAh 6 cell Li-ion),Type of Computer Power Supplies',Laptop Battery,1,Laptop,"0,5","0,5",Laptop Battery,1,1,Battery,"0,5","0,5",None,0,0,None,0,0
+Nespresso 5-Cup Espresso Maker in Sugar Pearl Silver and Aeroccino Milk Frother in Black,If Portioned Closed/Portioned Open',Portioned Open/small and large espresso cups,5,If Portioned Closed,0,"0,2",Nespresso 5-Cup Espresso Maker & Aeroccino Milk Frother,0,"0,1",None,0,"0,4",Portioned Open,1,"0,6",Portioned Closed/Portioned Open: None,0,"0,5"
+,Installation Type',None,,Removable,0,,Espresso maker with easy-loading Nespresso Grand Crus capsule system,"0,5",,None,1,,None,1,,Nespresso espresso maker,"0,5",
+,Steam Pressure/Pump',19,,19.0 bars of pressure,1,,None,0,,None,0,,Nespresso 5-Cup Espresso Maker,0,,19 bars,1,
+,Type of Hot Beverage Maker',Hot Beverage Makers,,None,0,,None,0,,Espresso maker,1,,None,0,,Espresso Maker,1,
+,Type of Material',die-cast metal,,None,0,,None,0,,None,0,,Metal,1,,None,0,
+Bulbrite 25W A19 E26 Green Ceramic Bulb,If Coloured',"Green/Yes/Blue, Green, Orange, Pink, Red, and Yellow/ transparent finish",5,None,0,"0,5",None,0,"0,2",None,0,"0,4",Coloured,"0,5","0,4",Green,1,"0,5"
+,If Energy Saving',None,,None,1,,None,1,,Yes,0,,Energy Saving,0,,None,1,
+,Illumination Type',None,,Incandescent,"0,5",,Ceramic bulb,0,,Light bulb,0,,Incandescent,"0,5",,Green,"0,5",
+,Target Use/Application',parties and outdoors/lighting,,None,0,,None,0,,"parties, outdoor lighting",1,,Parties and outdoors,1,,Green,0,
+,Type of Light Bulb/Tube',Light Bulb,,Light bulb/tube,1,,None,0,,Ceramic Light Bulb/Tube,1,,None,0,,Green,0,
+Seal Shield Silver Seal Medical Grade Keyboard,Method of Data Transfer',USB connector/Wired,2,USB,0,1,None,0,"0,5",USB,1,"0,25",None,0,"0,125",USB,1,"0,0625"
+,Reading Device',USB connector/Wired/gold-plated connector,,None,0,,None,0,,Keyboard,0,,None,0,,USB,"0,5",
+Compatible HP CE285A - (HP 85A) (Set of 2-Pack) Black Laser Toner Cartridge - 3200 Page Yield,Type of Transparency/Acetate',None,1,Acetate,0,0,None,1,1,None of the given attributes specify any type of transparency/acetate.,"0,5","0,5",Acetate,0,0,None,1,1
+Garden Patio Wooden Wood Frame Hammock Swing Sun Bed Lounger Canopy + 2 Pillows Cream,If Supplied as a Flatpack (to be assembled)',None,3,None,1,"0,6666666667",None,1,"0,8333333333",None,1,"0,6666666667",None,1,"0,3333333333",None,1,"0,8333333333"
+,Seating Capacity',2,,None,0,,2 person hammock bed,1,,2 people,1,,None,0,,2 person,1,
+,Type of Material',Russian larch wood/polyester fabric canopy,,Russian larch wood,1,,Wood,"0,5",,None,0,,None,0,,wood,"0,5",
+APC Door Lock Assembly,Target Location of Locking Device',home/corporate environments,1,None,1,1,None,1,1,Door,0,0,None,1,1,None,1,1
+Evedonsho Women Rubber Gray Rain Boot,Fastening Type',None,6,Fastening Type is Slip-On,1,"0,75",Women's rain boots with a rubber outsole and a 1 inch heel.,0,"0,5833333333",Zipper,0,"0,6666666667",Slip-On,1,"0,8333333333",None,"0,5","0,75"
+,Footwear Consumer Lifestage',Grown/Mature/None,,Mid-Calf,0,,Women,1,,Female,1,,Adult,1,,None,0,
+,Heel Height',1,,Heel Height of Evedonsho Women Rubber Gray Rain Boot is 1-1.75 inch.,1,,Women's Rubber Gray Rain Boot. 1 inch heel.,1,,1-175 inch,1,,1,1,,1 inch,1,
+,If Warmlined',None,,None,1,,If warmlined this attribute is true,0,,Yes,0,,None,1,,None,1,
+,Target Gender',Female/Woman,,Target Gender is Women,1,,Women's Shoes,1,,Women,1,,Women,1,,Women,1,
+,Upper Material Type',rubber,,Rubber is the upper material type of Evedonsho Women Rubber Gray Rain Boot.,"0,5",,Evedonsho Women Rubber Gray Rain Boot - Size 10,"0,5",,Rubber,1,,Upper Material Type,0,,Rubber,1,
+Alexander Wang Women's Draped Bustier T-Shirt Dress - Onyx,Consumer Lifestage',Woman/Adult/Grown/None,7,Adult,1,"0,8571428571",Draped bustier T-shirt dress,0,"0,2142857143","Fashion, Women's Clothing, Onyx",0,"0,6428571429",100% Cotton Lining:,0,"0,5",None,1,"0,5714285714"
+,Gender',Female/Woman,,None,0,,None,0,,Women's,1,,Women,1,,None,0,
+,If Maternity',None,,None,1,,"If you're expecting a baby, this is the dress to buy.",0,,None,0,,Maternity,0,,None,0,
+,Length of Skirt',8 measures 35”/89cm,,35”,1,,Draped bustier T-shirt dress,0,,"35""",1,,35”,1,,35”/89cm,1,
+,Length of Sleeve of Garment',None/cap,,Cap,1,,"Inseam is 35""",0,,Cap Sleeves,1,,None,1,,Cap,1,
+,Type of Dress',Draped Bustier T-shirt Dress,,T-Shirt dress,1,,draped bustier t-shirt dress,1,,Draped Bustier T-Shirt Dress,1,,None,0,,T-Shirt Dress,1,
+,Type of Material',"100% Cotton. Lining: 80% Nylon, 20% Spandex",,"Outer: 100% Cotton. Lining: 80% Nylon, 20% Spandex",1,,Italian compact cotton,"0,5",,Italian compact cotton,"0,5",,Italian compact cotton,"0,5",,None,0,
+Details about Vintage GUCCI FLORA Canvas and leather Two-way Clutch Shoulder Bag Purse,Base Material',canvas and leather,5,None,0,"0,6",None,0,"0,5",Canvas and leather,1,"0,7",leather,"0,5","0,6",canvas and leather,1,"0,6"
+,Consumer Lifestage',None,,Consumer Lifestage:Vintage,0,,None,1,,Adult,"0,5",,Student,0,,None,1,
+,Fastening Type',Strap Drop,,Strap,1,,Fastening Type is Snap closure,"0,5",,Strap,1,,Shoulder Bag or Clutch,"0,5",,None,0,
+,Target Gender',Female/Woman/ None,,Target Gender is Women,1,,Women,1,,The target gender of the given text is female.,1,,targeting women,1,,None,0,
+,Type of Handbag/Shoulder Bag',Shoulder bag,,None,1,,None,0,,None,0,,Shoulder Bag,1,,shoulder bag,1,
+JBL Clip 2 Gray Portable Bluetooth Speaker - JBLCLIP2GRAY,If Folding',None,2,None,1,1,Portable Bluetooth speaker with a built in carabiner,0,"0,5",None,1,1,Folding,0,0,None,1,1
+,If With Carry Case',None,,None,1,,None,1,,None,1,,J,0,,None,1,
+"Modern Sleep Universal Heavy-Duty Adjustable Metal Bed Frame with Double Rail Center Support Bar, Fits All Mattress Sizes",If on Castors',None,5,None,1,"0,8",None,1,"0,7",Yes,0,"0,6",None,1,"0,4",None,1,"0,9"
+,If Supplied as a Flatpack (to be assembled)',None,,None,1,,None,1,,- If Supplied as a Flatpack (to be assembled),0,,If Supplied as a Flatpack,0,,None,1,
+,If With Drawers',None,,(With Drawers),0,,No,"0,5",,No,1,,With Drawers,0,,None,1,
+,Type of Household Bed Frame/Bedstead',Metal bed Frame,,Bed Frame/Bedstead,1,,Modern Sleep Universal Heavy-Duty Adjustable Metal Bed Frame,1,,Bed Frame/Bedstead,1,,bed frame,1,,Bed Frame/Bedstead: Adjustable Metal Bed Frame,1,
+,Type of Material',Metal bed Frame,,Steel,1,,None,0,,Steel,1,,None,0,,Adjustable Metal Bed Frame,"0,5",
+Cedarvale Single Wall Sconce w/Copper Shade,Type of Lampshade',Cedarvale Single Wall Sconce/None,2,Type of Lampshade is Single Arm,1,1,Copper Shade,"0,5","0,75",Copper,0,"0,5",Copper,0,"0,5",Single Arm,1,1
+,Type of Material',Coper/Iron,,Copper,1,,"Copper, Iron",1,,"Copper, Iron",1,,co:Type of Material,1,,"Copper, Iron",1,
+Philips Avent Natural Feeding Bottle Single Pack 125ml,Consumer Lifestage',Baby/Young/Newborn,3,Stage: 0-12 months,1,"0,6666666667",Newborn flow nipple 0m+,"0,5","0,1666666667",0-12 months,1,1,0m+,0,"0,3333333333",None,0,0
+,If Disposable',None,,Yes,0,,Yes,0,,None,1,,None,1,,BPA free*,0,
+,If With Safety Claim',None,,None,1,,Newborn flow nipple 0m+,0,,None,1,,With Safety Claim,0,,Compatible with Philips Avent range,0,
+7000 Force Helmet - Shiro,If with Air Filter',front and rear venting,3,None,1,1,None,1,"0,6666666667","7000 Force Helmet - Shiro has the attribute ""If with Air Filter.""",0,0,DOT/ECE 2205 Certification,0,0,None,1,"0,6666666667"
+,If with Hearing Defence',None,,None,1,,None,1,,Yes,0,,DOT/ECE 2205 Certification,0,,None,1,
+,Type of Helmet',Force Helmet,,Helmet,1,,None,0,,None,0,,None,0,,None,0,
+Prism Glass Table - Rectangle,If on Castors',None,5,None,1,"0,9",None,1,"0,7",None,1,"0,9",Turned,0,"0,1",None,1,"0,6"
+,If Supplied as a Flatpack (to be assembled)',None,,None,1,,"If you select flatpack shipping, this item will be assembled for you.",0,,None,1,,Turned,0,,None,1,
+,If With Drawers',None,,None,1,,None,1,,None,1,,Traditional,0,,None,1,
+,Target Use/Application',Table,,Target Use/Application is Living room,"0,5",,Table top is made of glass with a metallic frame.,"0,5",,Home or Office,"0,5",,Home,"0,5",,None,0,
+,Type of Household/Office Table',Prism Glass Table,,Table,1,,Tables,1,,Table,1,,None,0,,None,0,
+Outdoor Life Men's Canvas Jacket,Consumer Lifestage',None/Adult/Grown,6,Lifestage,0,"0,5",None,0,"0,5",None,0,"0,6666666667",Adults,1,"0,8333333333",None,0,"0,6666666667"
+,Gender',Men,,Men's,1,,This product is made for men,1,,Men's,1,,Men,1,,Male,1,
+,If Maternity',None,,None,0,,"If you're pregnant, this is the jacket for you!",0,,None,0,,Stand collar Zipper closure,0,,None,0,
+,Length of Sleeve of Garment',canvas and leather,,Long sleeves,1,,None,0,,The length of sleeves of the garment is Long.,1,,Long,1,,Long,1,
+,Type of Jacket/Blazer/Cardigan/Waistcoat',Outdoor Jacket,,Jacket,1,,Jacket,1,,Jacket,1,,Jacket,1,,Jacket,1,
+,Type of Material',canvas,,Woven,0,,Men's canvas jacket,1,,Canvas,1,,Canvas,1,,canvas,1,
+"Emtec C400 USB 2.0 Flash Drive, 32GB, Blue",Storage Capacity (Megabytes)',32GB,2,32GB,1,1,None,0,"0,5",32GB,0,"0,5",32GB,1,1,None,0,0
+,Storage Medium/Device',Flash Drive,,Flash Drive,1,,Emtec C400 USB 2.0 Flash Drive,1,,"Emtec C400 USB 20 Flash Drive, 32GB, Blue",1,,Emtec C400,1,,None,0,
+Qmobile Noir X600 With 16GB Internal Dual Sim Smartphone,If Colour Screen',Black,7,If Colour Screen is Black,1,"0,8571428571",Colour screen,0,"0,4285714286",None,0,"0,7142857143",Yes,0,"0,6428571429",Colour Screen: None,0,"0,7857142857"
+,If MP3 Player',None/Multimedia,,None,1,,None,1,,None,1,,Brand,0,,None,1,
+,If Provider Ware',None,,If Provider Ware is Qmobile,1,,None,0,,None,0,,Provider Ware,"0,5",,Qmobile,1,
+,If With Camera',Yes/,,None,0,,None,0,,"Yes, the attribute ""With Camera"" is extracted from the given text.",1,,Yes,1,,8MP Rear,"0,5",
+,If With Prepaid Packet',None,,None,1,,None,1,,None,1,,None,1,,With Prepaid Packet: None,1,
+,Input Registration',None,,None,1,,None,1,,None,1,,None,1,,None,1,
+,System',Android 4.2 Jellybean/1.7Ghz Octa Core Processor,,Android 4.2 Jellybean,1,,None,0,,Android 42 Jellybean,1,,System Android (Bar type),1,,Android 4.2 Jellybean,1,
+Moe's Home Collection Rita Blue Dining Chair,If on Castors',None,6,"If on casters, Moe's Home Collection Rita Blue Dining Chair",0,"0,5",None,1,"0,8333333333",None,1,"0,8333333333","If on Castors, Blue Finish",0,"0,08333333333",None,1,"0,6666666667"
+,If Rocking',None,,If rocking is True,0,,None,1,,None,1,,Rocking,0,,None,1,
+,If Supplied as a Flatpack (to be assembled)',None,,None,1,,None,1,,None,1,,Blue Finish 32 Inches,0,,None,1,
+,If Swivel',None,,None,1,,None,1,,None,1,,32 Inches High 18 Inches Wide,0,,None,1,
+,Target Use/Application',Dining chair/Dining Chair/ Chair,,Target Use/Application is Interior Dry Rated,0,,Color: Blue,0,,Dining Chair,1,,Blue Finish,0,,None,0,
+,Type of Household/Office Chair/Stool',Dining chair/Dining Chair/ Chair,,Chair/Stool,1,,Chair,1,,The type of household/office chair is Dining Chair.,0,,Home,"0,5",,None,0,
+Silhouette Wine Cooler,Capacity of Wine Chiller',None,4,Capacity,0,0,3,0,0,750 mL,0,"0,25",None,0,"0,25",modest,"0,5","0,625"
+,Energy Type',None,,Cooler,0,,Temperature control,0,,None,1,,Sonoma,0,,None,1,
+,Function',Wine Cooler,,None,0,,Sonoma First class accommodation,0,,None,0,,wine,0,,None,0,
+,Installation Type',None,,Silhouette Wine Cooler,0,,refrigerator,0,,Freestanding,0,,None,1,,None,1,
+HP 490432-001 ProLiant DL160 G6 Server,Target Use/Application',Servers,1,None,0,0,None,0,0,Web serving and large memory footprint server deployments,1,1,None,0,0,"HPC environments, web serving and large memory footprint server deployments.",1,1
+,,,186,16,"117,5","32,2672619",4,"90,5","24,76190476",1,"120,5","30,77142857",226,87,"23,31488095",0,"127,5","32,07261905"
+,,,,,,,,,,,,,,,,,,
+,,,186,,,,,,,,,,,,,,,
