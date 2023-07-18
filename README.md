@@ -11,10 +11,10 @@ The system has the following structure:
 This repository is comprised of seven files that were used for the master thesis:
 - MAE - Attributes 
 - MAE - Class
-MAVE - Attributes
-MAVE - Class
-Results - Attributes
-Results - Class
-Dataset_products_for_test
-Testing_file
-Gold_standard.ods
+- MAVE - Attributes
+- MAVE - Class
+- Results - Attributes
+- Results - Class
+- Dataset_products_for_test
+- Testing_file
+- Gold_standard.ods
